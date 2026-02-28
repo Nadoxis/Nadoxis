@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="./assets/banner.png" />
-</p>
-
 <h3 align="center">Bonjour! 👋</h3>
 <p align="center">
     I'm Killian, a curious Software Engineer from <b>France</b>
